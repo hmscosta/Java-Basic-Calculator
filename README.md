@@ -4,5 +4,5 @@
 ![Issues](https://img.shields.io/github/issues/hmscosta/Java-Basic-Calculator?style=plastic)
 ![Licence](https://img.shields.io/github/license/hmscosta/Java-Basic-Calculator?style=plastic)
 
-#Java Calculator
+# Java Calculator
 Basic Java calculator with the 4 basic operations
